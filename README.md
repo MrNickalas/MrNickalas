@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNickalas
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning computer technology.
-- 💞️ I’m looking to collaborate on technology
+- 👀 I’m interested in programming the universe, manipulating reality..
+- 🌱 I’m currently learning computer programming and coding.
+- 💞️ I’m looking to collaborate on technology and how to master every aspect.
 - 📫 How to reach me mr.nick@nickalasmedia.com
 
 <!---
